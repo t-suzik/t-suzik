@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-suzik
-- 👀 I’m interested in Java, Kotlin
+- 👀 I’m interested in Java, Kotlin, Javascript, Blookchains, Crypto.
 - 🌱 I’m currently learning how to translate Java into Kotlin for android development. 
 - 💞️ I’m looking to collaborate on API developement. 
 - 📫 How to reach me...
